@@ -1,3 +1,8 @@
 .isolate {
   background: #000 !important;
 }
+
+.help {
+  color: #fff;
+  font-size: 14px;
+}
