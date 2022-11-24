@@ -64,6 +64,12 @@
     <h2 class="h4">{{ 'customer.account.details' | t }}</h2>
 
     <h3 class="h5">{{ customer.name }}</h3>
+<!-- Begin ReCharge code -->
+<p id="rc_link_container">
+    <a href="/tools/recurring/login">Manage Subscriptions</a>
+</p>
+<!-- End ReCharge code -->
+
 
     {% if customer.default_address != nil %}
       <p>

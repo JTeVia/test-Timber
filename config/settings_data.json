@@ -2,7 +2,7 @@
   "current": "Default",
   "presets": {
     "Default": {
-      "ajax_cart_method": "drawer",
+      "ajax_cart_method": "page",
       "cart_notes_enable": true,
       "color_body_bg": "#fff",
       "color_body_text": "#333333",
