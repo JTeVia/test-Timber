@@ -14,7 +14,7 @@
 {% assign number_of_comments = article.comments_count %}
 
 {% comment %}
-  If a comment was just submitted and it has no blank fields, we have an extra comment to count.
+  If a comment was just submitted 1 and it has no blank fields, we have an extra comment to count.
 {% endcomment %}
 {% if comment and comment.created_at %}
   {% assign number_of_comments = article.comments_count | plus: 1 %}
