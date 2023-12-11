@@ -1,5 +1,30 @@
 {
-  "current": "Default",
+  "current": {
+    "ajax_cart_method": "page",
+    "cart_notes_enable": true,
+    "color_body_bg": "#fff",
+    "color_body_text": "#333333",
+    "color_borders": "#e5e5e5",
+    "color_footer_bg": "#f2f2f2",
+    "color_footer_social_link": "#bbbbbb",
+    "color_footer_text": "#636363",
+    "color_primary": "#747474",
+    "color_secondary": "#bbb",
+    "favicon_enable": false,
+    "footer_newsletter_enable": true,
+    "footer_social_enable": true,
+    "logo_use_image": false,
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "blocks": {
+      "18423266570658624584": {
+        "type": "shopify:\/\/apps\/best-currency-converter\/blocks\/doubly\/267afa86-a419-4d5b-a61b-556038e7294d",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
   "presets": {
     "Default": {
       "ajax_cart_method": "page",
